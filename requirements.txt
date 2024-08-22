@@ -1,0 +1,10 @@
+# Core Libraries
+numpy
+pandas
+matplotlib
+
+# Machine Learning Utilities
+Sci-kit Learn (sklearn)
+
+# Integrated Development Enviroment
+Jupyter Notebooks
